@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernanfetamina
-- 👀 I’m interested in Data Science, Web design.
+- 👀 I’m interested in Data Science and Backend with Python.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on projects about using data.
 - 📫 You can contact to me on fernanda.arteagag@outlook.com
